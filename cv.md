@@ -81,3 +81,14 @@ Top performing IT professional with 5 years’ successful experience in Informat
   </body>
 </html>
 ```
+
+# Education
+
+- **Misnk State University, Misnk**
+  - Faculty of Informatic
+
+# Languages
+
+- English
+- Belarusian
+- Russian
