@@ -12,6 +12,16 @@
 
 Top performing IT professional with 5 years’ successful experience in Information Technology field. Proficient in hardware and software maintenance. Solid track record of providing the timely positive response to requests regarding computer-related assistance. A deep understanding of the general organizational confidentiality policies associated with IT specialist position.
 
+# Skills
+
+- HTML
+- CSS
+- JavaScript
+- Git/GitHub
+- Gulp
+- C/C++
+- Mac OS, Windows OS, Debian OS
+
 # Code examples
 
 ```
